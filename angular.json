@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tbdemo"
+    }
+  },
+  "defaultProject": "tbdemo",
+  "cli": {
+    "analytics": false
+  }
 }
